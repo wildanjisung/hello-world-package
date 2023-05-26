@@ -2,6 +2,10 @@
   "name": "wildanjisung-sandbox-hello-world",
   "version": "1.0.1",
   "description": "sandbox for return string hello world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wildanjisung/hello-world-package.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

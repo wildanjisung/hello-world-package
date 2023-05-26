@@ -1,6 +1,6 @@
 {
   "name": "wildanjisung-sandbox-hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sandbox for return string hello world",
   "main": "index.js",
   "scripts": {
